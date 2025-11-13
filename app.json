@@ -1,8 +1,8 @@
 
 {
-    "name": "arslan-md",
+    "name": "FAIZAN-AI",
     "description": "A whatsApp bot based on Baileysjs linrary (Ts+Js) with Multi Device support",
-    "repository": "https://github.com/Arslan-MD/Arslan-Pairing-Site",
+    "repository": "https://github.com/Faizan-MD-BOTZ/Faizan-Ai",
     "logo": "https://files.catbox.moe/a6chsf.jpg",
     "keywords": ["nodejs", "bot", "whatsapp bot", "whatsapp automation", "multi device"],
     "buildpacks": [
